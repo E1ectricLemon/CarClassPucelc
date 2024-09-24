@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CarsClass-Pucel-C\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{42B7BE6B-9050-5A67-228D-F458FBAFACA5}|Assembly-CSharp.csproj|d:\\carsclass-pucel-c\\assets\\ccscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42B7BE6B-9050-5A67-228D-F458FBAFACA5}|Assembly-CSharp.csproj|solutionrelative:assets\\ccscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42B7BE6B-9050-5A67-228D-F458FBAFACA5}|Assembly-CSharp.csproj|D:\\CarsClass-Pucel-C\\assets\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42B7BE6B-9050-5A67-228D-F458FBAFACA5}|Assembly-CSharp.csproj|solutionrelative:assets\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CCscript.cs",
+              "DocumentMoniker": "D:\\CarsClass-Pucel-C\\Assets\\CCscript.cs",
+              "RelativeDocumentMoniker": "Assets\\CCscript.cs",
+              "ToolTip": "D:\\CarsClass-Pucel-C\\Assets\\CCscript.cs",
+              "RelativeToolTip": "Assets\\CCscript.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T14:00:39.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Car.cs",
+              "DocumentMoniker": "D:\\CarsClass-Pucel-C\\Assets\\Car.cs",
+              "RelativeDocumentMoniker": "Assets\\Car.cs",
+              "ToolTip": "D:\\CarsClass-Pucel-C\\Assets\\Car.cs",
+              "RelativeToolTip": "Assets\\Car.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T13:23:40.197Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
